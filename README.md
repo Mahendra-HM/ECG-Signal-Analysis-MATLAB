@@ -1,4 +1,4 @@
-# ECG Signal Analysis Using MATLAB
+**#ECG Signal Analysis using MATLAB (MIT-BIH Dataset)**
 
 This project performs **ECG (Electrocardiogram) signal analysis using MATLAB** for the course **Signals and Systems (BEC403)**.  
 The ECG signal is processed using signal processing techniques to extract important features such as **R-peaks, RR intervals, heart rate, and heart rate variability (HRV)**.
